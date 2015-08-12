@@ -1,4 +1,4 @@
-The repo is used to store materials relavent to Getting and Cleaning Data.
+The repo is used to store materials relavent to course project of Getting and Cleaning Data.
 The repo includes the following files:
 "dataset.txt"  combines the training set and the test set into one dataset by activity labels,activity names, subject identities and other 86  mean and standard deviation for each measurement.
 "new_dataset.txt" generates an independent tidy dataset which  covers the average of each variable for each activity and each subject. All attributes are identical to the one above.
